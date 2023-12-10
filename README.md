@@ -1,12 +1,4 @@
-Super App built using React that creates user account and display user data with weather data, news dara and more. All the required data given by user which persists in localStorage.
-
-Deployed here: https://visionary-marshmallow-39d9fe.netlify.app/
-
-## Run the app locally
-<ul>
-    <li>npm install</li>
-    <li>npm start</li>
-</ul>
+This is a react capstone project which is a super app
 
 
 
